@@ -1,0 +1,8 @@
+struct
+numpy
+vosk
+json
+pyttsx3
+webbrowser
+pyaudio
+pyllamacpp
